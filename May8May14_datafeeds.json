@@ -63,11 +63,11 @@
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Pure Simplicity_N2-CU1-CU4_620x420.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_two=pure-simplicity",
-    "Headline": "PURE SIMPLICITY",
-    "Subline": "Less is more with this season's understated minimalist trend",
-    "EventLabel": "TRE|Women|wpuresimplicity|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_ASNTM_ep6.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=all-white",
+    "Headline": "Trend Roundup - Episode 6",
+    "Subline": "Boost your fashion inspiration with a white-on-white combination",
+    "EventLabel": "MRC|Women|masntms5ep6|ALL|NA"
   },
   {
     "Placement": "wcu2",
@@ -77,7 +77,7 @@
     "Exit Url": "/women/nike/?sort=latest%20arrival",
     "Headline": "Nike New Arrivals",
     "Subline": "Wake up your workout with the latest from your favorite brand",
-    "EventLabel": ""
+    "EventLabel": "BRA|Women|wnikenewarrivals|ALL|NA"
   },
   {
     "Placement": "wcu3",
