@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/all-products/?vc=MOM20",
+    "Headline": "A Mother's Day Like No Other! <span style = \"color:#f8fc88\">Enjoy 20% Off </span> Use code: Mom20",
+    "Subline": "Min. spend P1,800. Ends May 12, 12NN <br>Valid only on women's items. Brand exclusions apply",
+    "EventLabel": "SAL|Women|wmothersdayvc|ALL|NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/996x500_Mothers-Day_VC.jpg",
+    "Exit Url": "/women/all-products/?vc=MOM20",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wmothersdayvc|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420_PerfectTops.jpg",
+    "Exit Url": "/women/clothing/tops/new-products/",
+    "Headline": "Perfect Tops",
+    "Subline": "Start your very own fashion revolution right here, right now",
+    "EventLabel": "CAT|Women|wperfecttops|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/LoveMoschino_N2_NCU2_620x420.jpg",
+    "Exit Url": "/women/love-moschino/",
+    "Headline": "LOVE MOSCHINO",
+    "Subline": "Take your pick from an array of edgy designs and up your style game today",
+    "EventLabel": "BRA|Women|wlovemoschinolaunch|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Pure Simplicity_N2-CU1-CU4_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=pure-simplicity",
+    "Headline": "PURE SIMPLICITY",
+    "Subline": "Less is more with this season's understated minimalist trend",
+    "EventLabel": "TRE|Women|wpuresimplicity|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Nikewomen_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/nike/?sort=latest%20arrival",
+    "Headline": "Nike New Arrivals",
+    "Subline": "Wake up your workout with the latest from your favorite brand",
+    "EventLabel": ""
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/360x420_ShapesAndCurves_Last_ZAP.jpg",
+    "Exit Url": "/women/special-price/shapes-and-curves",
+    "Headline": "SHAPES AND CURVES SUMMER SALE",
+    "Subline": "Up to 40% off on these summer essentials",
+    "EventLabel": "BRA|Women|wshapesandcurvesfb|ALL|ZAP"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_MidddleGround_women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=middle-ground",
+    "Headline": "MIDDLE GROUND",
+    "Subline": "Mid-heels to soothe your soles",
+    "EventLabel": "TRE|Women|wmiddleground|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_Women_Aerosoles_Featured Brand_322x165.png",
+    "Exit Url": "/women/shoes/aerosoles/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|waerosolesfb|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_Women_DKNY-R1_05-322x165.jpg",
+    "Exit Url": "/women/watches/dkny/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wdknyfb|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_Women_Kamiseta_Featured Brand_322x165.png",
+    "Exit Url": "/women/clothing/kamiseta/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wkamisetafb|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_Women_ShapesAndCurves_322x165_ZAP.jpg",
+    "Exit Url": "/women/special-price/shapes-and-curves",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wshapesandcurvesfb|ALL|ZAP"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_Women_ZALORA_Featured Brand_322x165 copy.png",
+    "Exit Url": "/women/clothing/zalora/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wzalorafb|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_Women_Covergirl_Featured Brand_322x165.png",
+    "Exit Url": "/women/beauty/covergirl/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wcovergirlbalmlaunchfb|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_CatBanners_300x198_Handbags.jpg",
+    "Exit Url": "/women/bags/handbags/",
+    "Headline": "Shop Handbags >",
+    "Subline": "Shop Handbags >",
+    "EventLabel": "CAT|Women|whandbags|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_CatBanners_300x198_Heels.jpg",
+    "Exit Url": "/women/shoes/heeled-sandals/",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|wheels|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_C3_DesktopOnly_300x500.jpg",
+    "Exit Url": "/women/clothing/work-wear-dresses/",
+    "Headline": "Shop Workwear Dresses >",
+    "Subline": "Shop Workwear Dresses >",
+    "EventLabel": "CAT|Women|wworkwear|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_CatBanners_300x198_Bangles.jpg",
+    "Exit Url": "/women/accessories/bangle/",
+    "Headline": "Shop Bangles >",
+    "Subline": "Shop Bangles >",
+    "EventLabel": "CAT|Women|wbangles|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_CatBanners_300x198_Haircare.jpg",
+    "Exit Url": "/women/beauty/hair-care/",
+    "Headline": "Shop Hair Care >",
+    "Subline": "Shop Hair Care >",
+    "EventLabel": "CAT|Women|whaircare|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/new-products/",
+    "Headline": "Best of New Products",
+    "Subline": "Shop Now >",
+    "EventLabel": "TRE|Men|mbestofnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HERO_996x500_Men_BestOfNewArrivals.jpg",
+    "Exit Url": "/men/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|mbestofnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/ShoesAndAccessories_CU2_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=bestsellershoesacc",
+    "Headline": "Shoes & Accessories Edit",
+    "Subline": "These must-have picks are guaranteed to put you ahead of the crowd",
+    "EventLabel": "CAT|Men|mshoesandaccessories|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_SportsOnSale_Men.jpg",
+    "Exit Url": "/men/sports/special-price/",
+    "Headline": "Rise to the Challenge",
+    "Subline": "Get your activewear up to 50% off",
+    "EventLabel": "SAL-CAT|Men|msportsonsale|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/2017-05-05_Men_Hollister_B1-6_322x165.jpg",
+    "Exit Url": "/men/hollister/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mhollisterfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/2017-05-05_Men_Sperry_Featured Brand_322x165.png",
+    "Exit Url": "/men/sperry/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|msperryfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/2017-05-05_Men_jack & jones_322x165.jpg",
+    "Exit Url": "/men/jack-jones/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mjackjonesfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/2017-05-05_Men_Rayban_B1-6_322x165.jpg",
+    "Exit Url": "/men/ray-ban/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mraybanfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/2017-05-05_Men_Wrangler_B1-6_322x165.jpg",
+    "Exit Url": "/men/wrangler/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mwranglerfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/2017-05-05_Men_Pacsafe_Featured Brand_322x165.png",
+    "Exit Url": "/men/pacsafe/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mpacsafefb|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat2_performance-shoes.jpg",
+    "Exit Url": "/men/shoes/sports-performance/",
+    "Headline": "Shop Performance Shoes >",
+    "Subline": "Shop Performance Shoes >",
+    "EventLabel": "CAT|Men|mperformanceshoes|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat1_caps.jpg",
+    "Exit Url": "/men/accessories/caps/",
+    "Headline": "Shop Caps >",
+    "Subline": "Shop Caps >",
+    "EventLabel": "CAT|Men|mcaps|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat3_tanktops.jpg",
+    "Exit Url": "/men/clothing/sleeveless-t-shirts/",
+    "Headline": "Shop Tank Tops >",
+    "Subline": "Shop Tank Tops >",
+    "EventLabel": "CAT|Men|mtanktops|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat3_loafers.jpg",
+    "Exit Url": "/men/shoes/loafers-moccasins/",
+    "Headline": "Shop Loafers >",
+    "Subline": "Shop Loafers >",
+    "EventLabel": "CAT|Men|mloafers|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat5_shorts.jpg",
+    "Exit Url": "/men/clothing/shorts/",
+    "Headline": "Shop Shorts >",
+    "Subline": "Shop Shorts >",
+    "EventLabel": "CAT|Men|mshorts|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/700x200_Mothers-Day_VC.jpg",
+    "Exit Url": "/women/all-products/?vc=MOM20",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wmothersdayvc|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/600X600_Mothers-Day_VC.jpg",
+    "Exit Url": "/women/all-products/?vc=MOM20",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wmothersdayvc|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_PerfectTops.jpg",
+    "Exit Url": "/women/clothing/tops/new-products/",
+    "Headline": "Perfect Tops",
+    "Subline": "Start your very own fashion revolution right here, right now",
+    "EventLabel": "CAT|Women|wperfecttops|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/LoveMoschino_N2_NCU2_620x420.jpg",
+    "Exit Url": "/women/love-moschino/",
+    "Headline": "LOVE MOSCHINO",
+    "Subline": "Take your pick from an array of edgy designs and up your style game today",
+    "EventLabel": "BRA|Women|wlovemoschinolaunch|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_C5_300x198_Workdress.jpg",
+    "Exit Url": "/women/clothing/work-wear-dresses/",
+    "Headline": "Shop Workwear Dresses >",
+    "Subline": "Shop Workwear Dresses >",
+    "EventLabel": "CAT|Women|wworkwear|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_CatBanners_300x198_Handbags.jpg",
+    "Exit Url": "/women/bags/handbags/",
+    "Headline": "Shop Handbags >",
+    "Subline": "Shop Handbags >",
+    "EventLabel": "CAT|Women|whandbags|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Mobile Hero_600x600_Men_BestofNewArrivals.jpg",
+    "Exit Url": "/men/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|mbestofnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/ShoesAndAccessories_CU1_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=bestsellershoesacc",
+    "Headline": "Shoes & Accessories Edit",
+    "Subline": "These must-have picks are guaranteed to put you ahead of the crowd",
+    "EventLabel": "CAT|Men|mshoesandaccessories|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_SportsOnSale_Men.jpg",
+    "Exit Url": "/men/sports/special-price/",
+    "Headline": "Rise to the Challenge",
+    "Subline": "Get your activewear up to 50% off",
+    "EventLabel": "SAL-CAT|Men|msportsonsale|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat2_performance-shoes.jpg",
+    "Exit Url": "/men/shoes/sports-performance/",
+    "Headline": "Shop Performance Shoes >",
+    "Subline": "Shop Performance Shoes >",
+    "EventLabel": "CAT|Men|mperformanceshoes|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat3_loafers.jpg",
+    "Exit Url": "/men/shoes/loafers-moccasins/",
+    "Headline": "Shop Loafers >",
+    "Subline": "Shop Loafers >",
+    "EventLabel": "CAT|Men|mloafers|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_322x300_perfecttops.jpg",
+    "Exit Url": "/women/clothing/tops/new-products/",
+    "Headline": "Perfect Tops",
+    "Subline": "Start your very own fashion revolution right here, right now",
+    "EventLabel": "CAT|Women|wperfecttops|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_322x300_mothersdayvc.jpg",
+    "Exit Url": "/women/all-products/?vc=MOM20",
+    "Headline": "A Mother's Day Like No Other!",
+    "Subline": "Enjoy 20% Off <br>Use code: Mom20",
+    "EventLabel": "SAL|Women|wmothersdayvc|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_322x300_puresimplicity.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=pure-simplicity",
+    "Headline": "PURE SIMPLICITY",
+    "Subline": "Less is more with this season's understated minimalist trend",
+    "EventLabel": "TRE|Women|wpuresimplicity|ALL|NA"
+  }
+]
