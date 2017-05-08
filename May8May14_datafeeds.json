@@ -43,11 +43,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420_PerfectTops.jpg",
-    "Exit Url": "/women/clothing/tops/new-products/",
-    "Headline": "Perfect Tops",
-    "Subline": "Start your very own fashion revolution right here, right now",
-    "EventLabel": "CAT|Women|wperfecttops|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/SunsOut_N1_320x420.jpg",
+    "Exit Url": "/women/sports/sports-training/special-price/",
+    "Headline": "Sun's Out, Sweat it out",
+    "Subline": "Get back to your workout routine with your training gear up to 50% off",
+    "EventLabel": "CAT|Women|wsporttrainingsale|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -403,11 +403,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_PerfectTops.jpg",
-    "Exit Url": "/women/clothing/tops/new-products/",
-    "Headline": "Perfect Tops",
-    "Subline": "Start your very own fashion revolution right here, right now",
-    "EventLabel": "CAT|Women|wperfecttops|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/SunsOut_N2_620x420.jpg",
+    "Exit Url": "/women/sports/sports-training/special-price/",
+    "Headline": "Sun's Out, Sweat it out",
+    "Subline": "Get back to your workout routine with your training gear up to 50% off",
+    "EventLabel": "CAT|Women|wsporttrainingsale|ALL|NA"
   },
   {
     "Placement": "wn2",
