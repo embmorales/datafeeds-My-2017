@@ -4,30 +4,30 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/all-products/?vc=MOM20",
-    "Headline": "A Mother's Day Like No Other! <span style = \"color:#f8fc88\">Enjoy 20% Off </span> Use code: Mom20",
-    "Subline": "Min. spend P1,800. Ends May 12, 12NN <br>Valid only on women's items. Brand exclusions apply",
-    "EventLabel": "SAL|Women|wmothersdayvc|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "wsl1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/all-products/?vc=MOM20",
+    "Headline": "Mother's Day Sale! <span style = \"color:#f8fc88\">Enjoy 20% Off </span> Use code: Mom20",
+    "Subline": "Min. spend P1,800. Ends May 12, 12NN <br>Valid only on women's items. Brand exclusions apply",
+    "EventLabel": "SAL|Women|wmothersdayvc|ALL|NA"
   },
   {
     "Placement": "wsr1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/all-products/?cmpgn_five=everthing-at-649",
+    "Headline": "Everything at P649, Buy 2 Get 20% off",
+    "Subline": "Ends May 15, 11:59AM. Valid only on items on this page.",
+    "EventLabel": "SAL|Women|wrplbuy2get20off|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -214,30 +214,30 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/new-products/",
-    "Headline": "Best of New Products",
-    "Subline": "Shop Now >",
-    "EventLabel": "TRE|Men|mbestofnewarrivals|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "msl1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/all-products/?vc=MOM20",
+    "Headline": "Mother's Day Sale! <span style = \"color:#f8fc88\">Enjoy 20% Off </span> Use code: Mom20",
+    "Subline": "Min. spend P1,800. Ends May 12, 12NN <br>Valid only on women's items. Brand exclusions apply",
+    "EventLabel": "SAL|Men|mmothersdayvc|ALL|NA"
   },
   {
     "Placement": "msr1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/men/all-products/?cmpgn_five=everthing-at-649",
+    "Headline": "Everything at P649, Buy 2 Get 20% off",
+    "Subline": "Ends May 15, 11:59AM. Valid only on items on this page.",
+    "EventLabel": "SAL|Men|mrplbuy2get20off|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -453,11 +453,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Mobile Hero_600x600_Men_BestofNewArrivals.jpg",
-    "Exit Url": "/men/new-products/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/mobile-site-hero_600x600-RPL sale men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=everthing-at-649",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|mbestofnewarrivals|ALL|NA"
+    "EventLabel": "SAL|Men|mrplbuy2get20off|ALL|NA"
   },
   {
     "Placement": "mn1",
