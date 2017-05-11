@@ -93,11 +93,11 @@
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_MidddleGround_women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=middle-ground",
-    "Headline": "MIDDLE GROUND",
-    "Subline": "Mid-heels to soothe your soles",
-    "EventLabel": "TRE|Women|wmiddleground|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_StepItUp_SSI_Sale.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=ssi-sale",
+    "Headline": "STEP IT UP",
+    "Subline": "Indulge in these must-haves from your favorite brands",
+    "EventLabel": "SAL|Women|wssisale|ALL|NA"
   },
   {
     "Placement": "wfb1",
