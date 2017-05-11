@@ -33,11 +33,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/996x500_Mothers-Day_VC.jpg",
-    "Exit Url": "/women/all-products/?vc=MOM20",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HERO_996x500_Dressed Up Dreams.jpg",
+    "Exit Url": "/women/clothing/dresses/new-products",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|wmothersdayvc|ALL|NA"
+    "EventLabel": "CAT|Women|wdressedupdreams|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -393,11 +393,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/600X600_Mothers-Day_VC.jpg",
-    "Exit Url": "/women/all-products/?vc=MOM20",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HERO_996x500_Dressed Up Dreams.jpg",
+    "Exit Url": "/women/clothing/dresses/new-products",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|wmothersdayvc|ALL|NA"
+    "EventLabel": "CAT|Women|wdressedupdreams|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -453,11 +453,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/mobile-site-hero_600x600-RPL sale men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_five=everthing-at-649",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Mobile Hero_600x600_Men_BestofNewArrivals.jpg",
+    "Exit Url": "/men/new-products/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|mrplbuy2get20off|ALL|NA"
+    "EventLabel": "TRE|Men|mbestofnewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
