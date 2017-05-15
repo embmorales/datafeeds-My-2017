@@ -73,11 +73,11 @@
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/360x420_MiddleGround.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=middle-ground",
-    "Headline": "MIDDLE GROUND",
-    "Subline": "Mid-heels to soothe your soles",
-    "EventLabel": "TRE|Women|wmiddleground|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/360x420-Women_SportTheLook.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=sports-lifestyle-sale",
+    "Headline": "Sport The Look",
+    "Subline": "Up to 50% off Sports Performance",
+    "EventLabel": "SAL|Women|wsportthelook|ALL|NA"
   },
   {
     "Placement": "wcu3",
@@ -443,11 +443,11 @@
     "Placement": "ms1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "NA",
-    "Exit Url": "NA",
+    "Image": "https://static-ph.zacdn.com/cms/DY/mobileweb_skinnyGIF_700x200_bptopman_buy2.gif",
+    "Exit Url": "/men/all-products/?sort=popularity&dir=desc&gender=men&category_id=&brand=burton-menswear-london--topman",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA"
+    "EventLabel": "SAL|Men|mbuy2get20offBPtopman|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -467,7 +467,7 @@
     "Exit Url": "/men/all-products/?cmpgn_two=sports-lifestyle-sale",
     "Headline": "Sport The Look",
     "Subline": "Up to 50% off Sports Performance",
-    "EventLabel": "SAL|Men|mwishlistfaves|ALL|NA"
+    "EventLabel": "SAL|Men|msportthelook|ALL|NA"
   },
   {
     "Placement": "mn2",
