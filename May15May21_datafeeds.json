@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/all-products/?sort=popularity&dir=desc&gender=women&category_id=&brand=dorothy-perkins--topshop",
+    "Headline": "Buy 2 Get 20% off on Topshop and Dorothy Perkins",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Women|wbuy2get20off|ALL|NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/996x500_The_It_List_Women.jpg",
+    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&gender=women&category_id=&brand=adidas--anello--birkenstock--dorothy-perkins--guess--havaianas--ivy-park--kamiseta--mango--melissa--nike--plains-prints--river-island--something-borrowed--superga--topshop--velvet--zalora",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Women|wdressedupdreams|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420_Perfect_Tops_Women.jpg",
+    "Exit Url": "/women/clothing/tops/new-products/",
+    "Headline": "Perfect Tops",
+    "Subline": "Start your very own fashion revolution right here, right now.",
+    "EventLabel": "CAT|Women|wperfecttops|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Women_DrMartens_2.jpg",
+    "Exit Url": "/women/shoes/dr-martens/",
+    "Headline": "NOW ON ZALORA: DR. MARTENS",
+    "Subline": "Take it to the streets with this iconic statement boot",
+    "EventLabel": "BRA|Women|wdrmartens|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2-CU1-CU4_620x420_Women_Weekday_Workwear.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=weekday-workwear",
+    "Headline": "WEEKDAY WORKWEAR",
+    "Subline": "Modern day office outfits for less",
+    "EventLabel": "TRE|Women|wweekdayworkwear|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/360x420_MiddleGround.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=middle-ground",
+    "Headline": "MIDDLE GROUND",
+    "Subline": "Mid-heels to soothe your soles",
+    "EventLabel": "TRE|Women|wmiddleground|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170509_Own-Local_CU3_360x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=love-local",
+    "Headline": "OWN LOCAL",
+    "Subline": "Shop fashion finds from homegrown brands such as Chelsea, Spring Fling and Chloe Edit among others",
+    "EventLabel": "TRE|Women|wownlocal|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2-CU1-CU4_620x420_PureSimplicity.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=pure-simplicity",
+    "Headline": "PURE SIMPLICITY",
+    "Subline": "Less is more with this season's understated minimalist trend",
+    "EventLabel": "TRE|Women|wpuresimlicity|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170512_Women's-Featured-Brands_322x165_Zalora.jpg",
+    "Exit Url": "/women/zalora/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wzalorafb|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170512_Women's-Featured-Brands_322x165_Mango.jpg",
+    "Exit Url": "/women/mango/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wmangofb|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170512_Women's-Featured-Brands_322x165_Jansport.jpg",
+    "Exit Url": "/women/jansport/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wjansportfb|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170512_Women's-Featured-Brands_322x165_Amazonas.jpg",
+    "Exit Url": "/women/amazonas/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wamazonasfb|ALL|ZAP"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170512_Women's-Featured-Brands_322x165_Birkenstock.jpg",
+    "Exit Url": "/women/birkenstock/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wbirkenstockfb|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170512_Women's-Featured-Brands_322x165_Sleek.jpg",
+    "Exit Url": "/women/sleek-makeup/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wsleeksalfb|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_CatBanners_300x198_Handbags.jpg",
+    "Exit Url": "/women/bags/handbags/",
+    "Headline": "Shop Handbags >",
+    "Subline": "Shop Handbags >",
+    "EventLabel": "CAT|Women|whandbags|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_CatBanners_300x198_Heels.jpg",
+    "Exit Url": "/women/shoes/heeled-sandals/",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|wheels|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_C3_DesktopOnly_300x500.jpg",
+    "Exit Url": "/women/clothing/work-wear-dresses/",
+    "Headline": "Shop Workwear Dresses >",
+    "Subline": "Shop Workwear Dresses >",
+    "EventLabel": "CAT|Women|wworkwear|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_CatBanners_300x198_Bangles.jpg",
+    "Exit Url": "/women/accessories/bangle/",
+    "Headline": "Shop Bangles >",
+    "Subline": "Shop Bangles >",
+    "EventLabel": "CAT|Women|wbangles|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_CatBanners_300x198_Haircare.jpg",
+    "Exit Url": "/women/beauty/hair-care/",
+    "Headline": "Shop Hair Care >",
+    "Subline": "Shop Hair Care >",
+    "EventLabel": "CAT|Women|whaircare|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/?sort=popularity&dir=desc&gender=men&category_id=&brand=burton-menswear-london--topman",
+    "Headline": "Buy 2, Get 20% Off on Burton Menswear and Topman",
+    "Subline": "Ends May 21, 11:59 PM. Valid on top of voucher code",
+    "EventLabel": "SAL|Men|mbuy2get20offBPtopman|ALL|NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HERO_996x500_Men_BestOfNewArrivals.jpg",
+    "Exit Url": "/men/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|mbestofnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/360x420_Wishlist_Faves_Men.jpg",
+    "Exit Url": "/men/special-price/?sort=popularity&brand=balaynor--bench--bny--bobson--call-it-spring--crimson--dyse-one--folded-hung--huga--mint--oxygen--penshoppe--regatta--wrangler",
+    "Headline": "Wishlist Faves",
+    "Subline": "Take up to 50% off your favorite brands",
+    "EventLabel": "SAL|Men|mwishlistfaves|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Women_DrMartens_2.jpg",
+    "Exit Url": "/men/shoes/dr-martens/",
+    "Headline": "NOW ON ZALORA: DR. MARTENS",
+    "Subline": "Take it to the streets with this iconic statement boot",
+    "EventLabel": "BRA|Men|mdrmartens|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Dsk_322x165_Levis_20170515.png",
+    "Exit Url": "/men/levi-s/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mlevisfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Dsk_322x165_adidas_20170515.jpg",
+    "Exit Url": "/men/adidas/?getSKU=AD678AA48VMXPH--AD678AA46VMZPH--AD678AA45VNAPH--AD678AA42VNDPH",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|madidasfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Dsk_322x165_oxygen_20170515.jpg",
+    "Exit Url": "/men/oxygen/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|moxygenfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Dsk_322x165_stuhrling_20170515.jpg",
+    "Exit Url": "/men/stuhrling-original/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mstuhrlingoriginalfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Dsk_322x165_fila_20170515.jpg",
+    "Exit Url": "/men/fila/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mfilafb|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Dsk_322x165_Birkenstock_20170515.png",
+    "Exit Url": "/men/birkenstock/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mbirkenstockfb|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Cat_LifestyleShoes_300x198_20170515.jpg",
+    "Exit Url": "/men/sports/sportscsf-lifestyle-shoes/?getSKU=AD678SH96CDFPH",
+    "Headline": "Shop Sports Lifestyle Shoes >",
+    "Subline": "Shop Sports Lifestyle Shoes >",
+    "EventLabel": "CAT|Men|msportlifestyle|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Cat_Jeans_300x198_20170515.jpg",
+    "Exit Url": "/men/clothing/jeans/?getSKU=SU137AA61MAGMY",
+    "Headline": "Shop Jeans >",
+    "Subline": "Shop Jeans >",
+    "EventLabel": "CAT|Men|mjeans|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Cat_Swimwear_375x500_20170515.jpg",
+    "Exit Url": "/men/clothing/swimwear/?getSKU=AQ609US19ENGPH",
+    "Headline": "Shop Swimwear >",
+    "Subline": "Shop Swimwear >",
+    "EventLabel": "CAT|Men|mswimwear|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Cat_PoloShirt_300x198_20170515.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/?getSKU=95204AADF91FF1GS",
+    "Headline": "Shop Polo Shirts >",
+    "Subline": "Shop Polo Shirts >",
+    "EventLabel": "CAT|Men|mpoloshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Cat_Backpack_300x198_20170515.jpg",
+    "Exit Url": "/men/bags/backpacks/?getSKU=PA067AC99AJWPH",
+    "Headline": "Shop Backpacks >",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "CAT|Men|mbackpacks|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/mobileweb_skinnyGIF_700x200_dorothyperkins_topshop_buy2.gif",
+    "Exit Url": "/women/all-products/?sort=popularity&dir=desc&gender=women&category_id=&brand=dorothy-perkins--topshop",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wbuy2get20off|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Web-Hero_600x600_The_It_List_Women.jpg",
+    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&gender=women&category_id=&brand=adidas--anello--birkenstock--dorothy-perkins--guess--havaianas--ivy-park--kamiseta--mango--melissa--nike--plains-prints--river-island--something-borrowed--superga--topshop--velvet--zalora",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Women|wdressedupdreams|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_Perfect_Tops_Women.jpg",
+    "Exit Url": "/women/clothing/tops/new-products/",
+    "Headline": "Perfect Tops",
+    "Subline": "Start your very own fashion revolution right here, right now.",
+    "EventLabel": "CAT|Women|wperfecttops|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Daria_Women_ZAP.jpg",
+    "Exit Url": "/women/clothing/daria/?sort=latest%20arrival",
+    "Headline": "FRESH STYLES FROM DARIA",
+    "Subline": "A dress for every occasion",
+    "EventLabel": "BRA|Women|wdaria|ALL|ZAP"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_C5_300x198_Workdress.jpg",
+    "Exit Url": "/women/clothing/work-wear-dresses/",
+    "Headline": "Shop Workwear Dresses >",
+    "Subline": "Shop Workwear Dresses >",
+    "EventLabel": "CAT|Women|wworkwear|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170505_CatBanners_300x198_Handbags.jpg",
+    "Exit Url": "/women/bags/handbags/",
+    "Headline": "Shop Handbags >",
+    "Subline": "Shop Handbags >",
+    "EventLabel": "CAT|Women|whandbags|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Mobile Hero_600x600_Men_BestofNewArrivals.jpg",
+    "Exit Url": "/men/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|mbestofnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Men_Sport-The-Look.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=sports-lifestyle-sale",
+    "Headline": "Sport The Look",
+    "Subline": "Up to 50% off Sports Performance",
+    "EventLabel": "SAL|Men|mwishlistfaves|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Women_DrMartens.jpg",
+    "Exit Url": "/men/shoes/dr-martens/",
+    "Headline": "NOW ON ZALORA: DR. MARTENS",
+    "Subline": "Take it to the streets with this iconic statement boot",
+    "EventLabel": "BRA|Men|mdrmartens|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Cat_LifestyleShoes_300x198_20170515.jpg",
+    "Exit Url": "/men/sports/sportscsf-lifestyle-shoes/?getSKU=AD678SH96CDFPH",
+    "Headline": "Shop Sports Lifestyle Shoes >",
+    "Subline": "Shop Sports Lifestyle Shoes >",
+    "EventLabel": "CAT|Men|msportlifestyle|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Cat_Jeans_300x198_20170515.jpg",
+    "Exit Url": "/men/clothing/jeans/?getSKU=SU137AA61MAGMY",
+    "Headline": "Shop Jeans >",
+    "Subline": "Shop Jeans >",
+    "EventLabel": "CAT|Men|mjeans|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_322x300_dorothyperkins_topshop_buy2.jpg",
+    "Exit Url": "/women/all-products/?sort=popularity&dir=desc&gender=women&category_id=&brand=dorothy-perkins--topshop",
+    "Headline": "TWICE AS NICE",
+    "Subline": "Buy 2, get 20% off on all items of Topshop and Dorothy Perkins",
+    "EventLabel": "SAL|Women|wbuy2get20off|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x300-RPL-Bundle-Everything.jpg",
+    "Exit Url": "/women/all-products/?sort=popularity&price=599-599",
+    "Headline": "Everything at P599",
+    "Subline": "Everything at P999",
+    "EventLabel": "RET|Women|weverythingatP599|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x300_BP-Topman.jpg",
+    "Exit Url": "/men/all-products/?sort=popularity&dir=desc&gender=men&category_id=&brand=burton-menswear-london--topman",
+    "Headline": "Buy 2, Get 20% Off",
+    "Subline": "Ends May 21, 11:59 PM. Valid on top of voucher code",
+    "EventLabel": "SAL|Men|mbuy2get20offBPtopman|ALL|NA"
+  }
+]
