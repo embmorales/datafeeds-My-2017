@@ -4,30 +4,30 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/all-products/?sort=popularity&dir=desc&gender=women&category_id=&brand=dorothy-perkins--topshop",
-    "Headline": "Buy 2 Get 20% off on Topshop and Dorothy Perkins",
-    "Subline": "Shop Now >",
-    "EventLabel": "SAL|Women|wbuy2get20off|ALL|NA"
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "wsl1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/all-products/?sort=popularity&dir=desc&gender=women&category_id=&brand=dorothy-perkins--topshop",
+    "Headline": "Buy 2 Get 20% off on Topshop and Dorothy Perkins",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Women|wbuy2get20off|ALL|NA"
   },
   {
     "Placement": "wsr1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/all-products/?vc=yay18",
+    "Headline": "Enjoy 18% Off Sitewide - Use code: YAY18",
+    "Subline": "Min Spend: P1,500<br>Valid on sale. Brand exclusions apply",
+    "EventLabel": "SAL|Women|wyaysale18off|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -43,7 +43,7 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420_Perfect_Tops_Women.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/360x420-Women_PerfectTops.jpg",
     "Exit Url": "/women/clothing/tops/new-products/",
     "Headline": "Perfect Tops",
     "Subline": "Start your very own fashion revolution right here, right now.",
@@ -93,7 +93,7 @@
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N2-CU1-CU4_620x420_PureSimplicity.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2-CU1-CU4_620x420_Women_Puresimplicity.jpg",
     "Exit Url": "/women/all-products/?cmpgn_two=pure-simplicity",
     "Headline": "PURE SIMPLICITY",
     "Subline": "Less is more with this season's understated minimalist trend",
@@ -214,30 +214,30 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/?sort=popularity&dir=desc&gender=men&category_id=&brand=burton-menswear-london--topman",
-    "Headline": "Buy 2, Get 20% Off on Burton Menswear and Topman",
-    "Subline": "Ends May 21, 11:59 PM. Valid on top of voucher code",
-    "EventLabel": "SAL|Men|mbuy2get20offBPtopman|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "msl1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/men/?sort=popularity&dir=desc&gender=men&category_id=&brand=burton-menswear-london--topman",
+    "Headline": "Buy 2, Get 20% Off on Burton Menswear and Topman",
+    "Subline": "Ends May 21, 11:59 PM. Valid on top of voucher code",
+    "EventLabel": "SAL|Men|mbuy2get20offBPtopman|ALL|NA"
   },
   {
     "Placement": "msr1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/men/all-products/?vc=yay18",
+    "Headline": "Enjoy 18% Off Sitewide - Use code: YAY18",
+    "Subline": "Min Spend: P1,500<br>Valid on sale. Brand exclusions apply",
+    "EventLabel": "SAL|Men|myaysale18off|ALL|NA"
   },
   {
     "Placement": "mh1",
