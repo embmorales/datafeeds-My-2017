@@ -4,10 +4,10 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "",
-    "Headline": "",
-    "Subline": "",
-    "EventLabel": ""
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "wsl1",
@@ -24,10 +24,10 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/all-products/?vc=yay18",
-    "Headline": "Enjoy 18% Off Sitewide - Use code: YAY18",
-    "Subline": "Min Spend: P1,500<br>Valid on sale. Brand exclusions apply",
-    "EventLabel": "SAL|Women|wyaysale18off|ALL|NA"
+    "Exit Url": "/women/all-products/?sort=popularity&price=599-599&dir=desc&gender=women&category_id=&brand=something-borrowed--velvet--zalora--zalora-sport",
+    "Headline": "Everything at P599",
+    "Subline": "Shop Now >",
+    "EventLabel": "TRE|Women|weverythingatp599|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -54,7 +54,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Women_DrMartens_2.jpg",
-    "Exit Url": "/women/shoes/dr-martens/",
+    "Exit Url": "/women/shoes/dr-martens/?vc=DMZALORA",
     "Headline": "DR. MARTENS",
     "Subline": "Get 20% Off. Use code: DMZALORA. Valid until May 22, 12:00 noon",
     "EventLabel": "BRA|Women|wdrmartens|ALL|NA"
@@ -234,10 +234,10 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/all-products/?vc=yay18",
-    "Headline": "Enjoy 18% Off Sitewide - Use code: YAY18",
-    "Subline": "Min Spend: P1,500<br>Valid on sale. Brand exclusions apply",
-    "EventLabel": "SAL|Men|myaysale18off|ALL|NA"
+    "Exit Url": "/men/all-products/?sort=popularity&price=599-599&dir=desc&gender=men&category_id=&brand=24-01--blkshp--factorie--jack-jones--jaxon--maldita-man--oxygen--penshoppe--zalora--zalora-sport",
+    "Headline": "Everything at P599",
+    "Subline": "Shop Now >",
+    "EventLabel": "TRE|Men|meverythingatp599|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -264,7 +264,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Women_DrMartens_2.jpg",
-    "Exit Url": "/men/shoes/dr-martens/",
+    "Exit Url": "/men/shoes/dr-martens/?vc=DMZALORA",
     "Headline": "DR. MARTENS",
     "Subline": "Get 20% Off. Use code: DMZALORA. Valid until May 22, 12:00 noon",
     "EventLabel": "BRA|Men|mdrmartens|ALL|NA"
@@ -403,11 +403,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_Perfect_Tops_Women.jpg",
-    "Exit Url": "/women/clothing/tops/new-products/",
-    "Headline": "Perfect Tops",
-    "Subline": "Start your very own fashion revolution right here, right now.",
-    "EventLabel": "CAT|Women|wperfecttops|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Women_DrMartens_2.jpg",
+    "Exit Url": "/women/shoes/dr-martens/?vc=DMZALORA",
+    "Headline": "DR. MARTENS",
+    "Subline": "Get 20% Off. Use code: DMZALORA. Valid until May 22, 12:00 noon",
+    "EventLabel": "BRA|Women|wdrmartens|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -474,7 +474,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Women_DrMartens.jpg",
-    "Exit Url": "/men/shoes/dr-martens/",
+    "Exit Url": "/men/shoes/dr-martens/?vc=DMZALORA",
     "Headline": "DR. MARTENS",
     "Subline": "Get 20% Off. Use code: DMZALORA. Valid until May 22, 12:00 noon",
     "EventLabel": "BRA|Men|mdrmartens|ALL|NA"
