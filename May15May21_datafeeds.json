@@ -403,11 +403,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Women_DrMartens_2.jpg",
-    "Exit Url": "/women/shoes/dr-martens/?vc=DMZALORA",
-    "Headline": "DR. MARTENS",
-    "Subline": "Get 20% Off. Use code: DMZALORA. Valid until May 22, 12:00 noon",
-    "EventLabel": "BRA|Women|wdrmartens|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Club_Clio_Launch.jpg",
+    "Exit Url": "/women/beauty/?sort=popularity&dir=desc&page=2&category_id=627&brand=goodal--clio-professional--peripera",
+    "Headline": "CLUB CLIO NOW ON ZALORA",
+    "Subline": "Get your hands on the best beauty buys from one of the leaders of Korean cosmetics and skincare",
+    "EventLabel": "BRA|Men|wclubcliolaunch|ALL|NA"
   },
   {
     "Placement": "wn2",
