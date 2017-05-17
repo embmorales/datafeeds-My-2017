@@ -44,7 +44,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/360x420_Club_Clio_Launch.jpg",
-    "Exit Url": "/women/clio-professional",
+    "Exit Url": "/women/beauty/?sort=popularity&dir=desc&page=2&category_id=627&brand=goodal--clio-professional--peripera",
     "Headline": "CLUB CLIO NOW ON ZALORA",
     "Subline": "Get your hands on the best beauty buys from one of the leaders of Korean cosmetics and skincare",
     "EventLabel": "BRA|Men|wclubcliolaunch|ALL|NA"
@@ -253,11 +253,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/360x420_Wishlist_Faves_Men.jpg",
-    "Exit Url": "/men/special-price/?sort=popularity&brand=balaynor--bench--bny--bobson--call-it-spring--crimson--dyse-one--folded-hung--huga--mint--oxygen--penshoppe--regatta--wrangler",
-    "Headline": "Wishlist Faves",
-    "Subline": "Take up to 50% off your favorite brands",
-    "EventLabel": "SAL|Men|mwishlistfaves|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/360x420_Men_SportTheLook_Sale.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=sports-lifestyle-sale",
+    "Headline": "Sport The Look",
+    "Subline": "Up to 50% off Sports Performance",
+    "EventLabel": "SAL|Men|msportthelook|ALL|NA"
   },
   {
     "Placement": "mn2",
