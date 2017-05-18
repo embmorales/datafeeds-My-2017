@@ -63,11 +63,11 @@
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N2-CU1-CU4_620x420_Women_Weekday_Workwear.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_three=weekday-workwear",
-    "Headline": "WEEKDAY WORKWEAR",
-    "Subline": "Modern day office outfits for less",
-    "EventLabel": "TRE|Women|wweekdayworkwear|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_The_Best_of_The_Best_Women.jpg",
+    "Exit Url": "/women/special-price/?cmpgn_one=best-of-sale&sort=popularity",
+    "Headline": "THE BEST OF THE BEST",
+    "Subline": "Your favorite brands at prices you can't resist. Everything up to 50% off!",
+    "EventLabel": "SAL|Women|wthebestofthebest|ALL|NA"
   },
   {
     "Placement": "wcu2",
