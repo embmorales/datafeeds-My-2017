@@ -413,11 +413,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Daria_Women_ZAP.jpg",
-    "Exit Url": "/women/clothing/daria/?sort=latest%20arrival",
-    "Headline": "FRESH STYLES FROM DARIA",
-    "Subline": "A dress for every occasion",
-    "EventLabel": "BRA|Women|wdaria|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Women_DrMartens_2.jpg",
+    "Exit Url": "/women/shoes/dr-martens/?vc=DMZALORA",
+    "Headline": "DR. MARTENS",
+    "Subline": "Get 20% Off. Use code: DMZALORA. Valid until May 22, 12:00 noon",
+    "EventLabel": "BRA|Women|wdrmartens|ALL|NA"
   },
   {
     "Placement": "wc1",
