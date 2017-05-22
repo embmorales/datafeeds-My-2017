@@ -14,20 +14,20 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/cln/new-products/",
+    "Headline": "CLN NEW ARRIVALS",
+    "Subline": "Check out the latest styles from your favorite local brand",
+    "EventLabel": "BRA|Women|wclnnewarrivals|ALL|ZAP"
   },
   {
     "Placement": "wsr1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/all-products/?cmpgn_three=buy3get30off",
+    "Headline": "Buy 3 or more, Get 30% off",
+    "Subline": "Valid only on items on this page. End May 29, 12NN",
+    "EventLabel": "SAL|Women|wrplbuy3get30off|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -224,26 +224,26 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/men/all-products/?cmpgn_four=sports15VC",
+    "Headline": "15% off Sports Essentials - Use Code: SPORTS15",
+    "Subline": "Including new arrivals from Nike, Onitsuka Tiger, Puma and more",
+    "EventLabel": "SAL|Men|m15offsportsessentials|ALL|NA"
   },
   {
     "Placement": "msr1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/men/all-products/?cmpgn_three=buy3get30off",
+    "Headline": "Buy 3 or more, Get 30% off",
+    "Subline": "Valid only on items on this page. End May 29, 12NN",
+    "EventLabel": "SAL|Men|mrplbuy3get30off|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Hero 996x500 The Best of The Best_Men.png",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Hero-996x500-The-Best-of-The-Best_Men_v1.jpg",
     "Exit Url": "/men/special-price/?cmpgn_one=best-of-sale&sort=popularity.",
     "Headline": "NA",
     "Subline": "NA",
