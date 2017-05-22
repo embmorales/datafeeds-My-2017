@@ -64,7 +64,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/620x420_ClassOfAct_Backtoschool.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_five=class-act",
+    "Exit Url": "/women/all-products/?cmpgn_five=class-act&vc=class",
     "Headline": "CLASS ACT",
     "Subline": "Score an A+ with these back-to-school essentials. Get 20% off. Use code: CLASS. Ends May 29, 12 noon",
     "EventLabel": "TRE|Women|wclassact|ALL|NA"
@@ -413,11 +413,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/NCU2_Celeteque_Launch.jpg",
-    "Exit Url": "/women/beauty/celeteque",
-    "Headline": "THINK + BEAUTIFUL WITH CELETEQUE",
-    "Subline": "Skincare for smart beauty",
-    "EventLabel": "BRA|Women|wceletequelaunch|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_CLN_NewArrivals-ZAP.jpg",
+    "Exit Url": "/women/cln/new-products/",
+    "Headline": "CLN NEW ARRIVALS",
+    "Subline": "Check out the latest styles from your favorite local brand",
+    "EventLabel": "BRA|Women|wclnnewarrivals|ALL|ZAP"
   },
   {
     "Placement": "wc1",
