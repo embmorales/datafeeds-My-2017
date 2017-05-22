@@ -263,11 +263,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Men_Nike_Footwear.jpg",
-    "Exit Url": "/men/shoes/nike/?sort=latest%20arrival",
-    "Headline": "Discover Nike",
-    "Subline": "Grab these new shoes and beat the competition from start to finish",
-    "EventLabel": "BRA|Men|mnikefootwear|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2-CU1-CU4_620x420_15offsportsVC.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=sports15VC&vc=SPORTS15",
+    "Headline": "15% off Sports Essentials",
+    "Subline": "Including new arrivals from Nike, Onitsuka Tiger, Puma and more<br>Use Code: SPORTS15",
+    "EventLabel": "SAL|Men|m15offsportsessentials|ALL|NA"
   },
   {
     "Placement": "mfb1",
