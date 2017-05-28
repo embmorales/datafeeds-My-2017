@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/all-products/?cmpgn_one=maywesplurge",
+    "Headline": "#MayWeSplurge Get 18% Off - USE CODE: MAY18",
+    "Subline": "Min Spend: P2,000. Valid only on items in the curated page",
+    "EventLabel": "SAL|Women|wmaywesplurge18offvc|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/special-price/?age=30-90&vc=MAY18",
+    "Headline": "#MayWeShop Get Up to 60% off",
+    "Subline": "Discover never-before-seen deals on these season's latest and greatest",
+    "EventLabel": "SAL|Women|wmayweshop|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_W_MayWeShop.jpg",
+    "Exit Url": "/women/special-price/?age=30-90",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wmayweshop|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_W_MayWeChill.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&age=90-120&dir=desc&gender=women&category_id=&brand=addicts-anonymous--aldo--esprit--mango--nike--no-apologies--river-island--sesura--shapes-and-curves--something-borrowed--stylebox--sunnydaysweety--velvet--zalora--zalora-sport",
+    "Headline": "MAY WE CHILL",
+    "Subline": "Take your pick and stay on-trend during your off days",
+    "EventLabel": "SAL|Women|wmaywechill|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/cms/DY/620x420_W_MayweWork.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=maywework1500",
+    "Headline": "MAY WE WORK",
+    "Subline": "Look corporate chic throughout the week without breaking the bank",
+    "EventLabel": "SAL|Women|wmaywework|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_w_mayweplay.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=mayweplay&sort=popularity&price=53-1499",
+    "Headline": "MAY WE PLAY",
+    "Subline": "Dance the night away in party-worthy pieces at exclusive prices",
+    "EventLabel": "SAL|Women|wmayweplay|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420-maywesplurge.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=maywesplurge&vc=MAY18",
+    "Headline": "MAY WE SPLURGE",
+    "Subline": "<span style = \"color:#436fb0\">Use code :MAY18</span> for 18% off women's wear. Minimum spend of P2000",
+    "EventLabel": "SAL|Women|wmaywesplurge18offvc|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/NEWARRIVALS_360x420_w_mayweacc.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=mayweaccessorize",
+    "Headline": "MAY  WE ACCESSORIZE",
+    "Subline": "With bags and shoes up to 50% off , this is truly the perfect pick-me-up",
+    "EventLabel": "SAL|Women|wmayweaccessorize|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_MayWeVacay.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=maywevacay",
+    "Headline": "MAY WE VACAY",
+    "Subline": "Get into the holiday mood with our selection of travel must-haves",
+    "EventLabel": "SAL|Women|wmaywevacay|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Something_Borrowed_W_20160526.jpg",
+    "Exit Url": "/women/something-borrowed/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wsomethingborrowed|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/CLN_W_20160526.jpg",
+    "Exit Url": "/women/cln/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wcln|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Dorothy_Perkins_W_20160526.jpg",
+    "Exit Url": "/women/dorothy-perkins",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wdorothyperkins|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Freeway_322x165_W_20160526.jpg",
+    "Exit Url": "/women/freeway/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wfreeway|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Casio_W_20160526.jpg",
+    "Exit Url": "/women/watches/casio",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wcasio|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HappySkin_W_20160526.jpg",
+    "Exit Url": "/women/beauty/happy-skin/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|whappyskin|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Watches_300x198.jpg",
+    "Exit Url": "/women/watches/analog-watches/",
+    "Headline": "Shop Watches >",
+    "Subline": "Shop Watches >",
+    "EventLabel": "BRA|Women|wwatches|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Sneakers_300x198.jpg",
+    "Exit Url": "/women/shoes/sneakers/",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "BRA|Women|wsneakers|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Jackets_375x500.jpg",
+    "Exit Url": "/women/clothing/jackets-vests/",
+    "Headline": "Shop Jackets >",
+    "Subline": "Shop Jackets >",
+    "EventLabel": "BRA|Women|wjackets|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Eye_Make-up_300x198.jpg",
+    "Exit Url": "/women/beauty/eyes/",
+    "Headline": "Shop Eye Make-up >",
+    "Subline": "Shop Eye Make-up >",
+    "EventLabel": "BRA|Women|weyemakeup|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Sports_Clothing_300x198.jpg",
+    "Exit Url": "/women/sports/sports-clothing/",
+    "Headline": "Shop Sports Clothing >",
+    "Subline": "Shop Sports Clothing >",
+    "EventLabel": "BRA|Women|wsportsclothing|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/all-products/?cmpgn_one=maywesplurge",
+    "Headline": "#MayWeSplurge Buy 2 or More, Get 20% off",
+    "Subline": "Valid on top of vouchers",
+    "EventLabel": "SAL|Men|mmaywesplurgebuy2get20off|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/all-products/?cmpgn_one=mayweshop",
+    "Headline": "#MayWeShop Get Up to 60% off",
+    "Subline": "Discover never-before-seen deals on these season's latest and greatest",
+    "EventLabel": "SAL|Men|mmayweshop|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_M_MayWeShop.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=mayweshop",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|mmayweshop|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420_M_MayWeMove.jpg",
+    "Exit Url": "/men/sports/special-price/",
+    "Headline": "May We Move",
+    "Subline": "Take up to 40% off this sportswear selection and sweat it out in style",
+    "EventLabel": "SAL|Men|mmaywemove|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_M_MayWeSplurge.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=maywesplurge",
+    "Headline": "May We Splurge",
+    "Subline": "Buy 2 or More, Get 20% off. Valid on top of vouchers",
+    "EventLabel": "SAL|Men|mmaywesplurgebuy2get20off|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/B1-6_322x165_M_20170526_River_Island.jpg",
+    "Exit Url": "/men/river-island/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mriverisland|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Featured_Brand_322x165_M_20170526_Pacsafe.png",
+    "Exit Url": "/men/pacsafe/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mpacsafe|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/New_Balance_B_322x165_M_20170526.jpg",
+    "Exit Url": "/men/new-balance/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mnewbalance|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Wrangler_B1-6_322x165_M_20170526.jpg",
+    "Exit Url": "/men/wrangler/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mwrangler|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Casio_322x165_M_20170526.jpg",
+    "Exit Url": "/men/casio/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mcasio|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Featured_Brand_322x165_M_20170526_Sperry.png",
+    "Exit Url": "/men/sperry/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|msperry|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Tshirts_300x198_W_20170526.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?getSKU=HO422AA23GPKMY",
+    "Headline": "Shop T-shirts >",
+    "Subline": "Shop T-shirts >",
+    "EventLabel": "CAT|Men|mtshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Sneakers_300x198_W_20170526.jpg",
+    "Exit Url": "/men/shoes/sneakers/?getSKU=EC876SH87ODCPH",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "CAT|Men|msneakers|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Jackets_375x500_W_20170526.jpg",
+    "Exit Url": "/men/clothing/jackets-vests/?getSKU=BU102AA47ZEEPH",
+    "Headline": "Shop Jackets >",
+    "Subline": "Shop Jackets >",
+    "EventLabel": "CAT|Men|mjackets|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Bodybags_300x198_W_20170526.jpg",
+    "Exit Url": "/men/bags/body-bags/?getSKU=ES374AC81VFAMY",
+    "Headline": "Shop Backpacks >",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "CAT|Men|mbackpacks|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Watches_300x198_W_20170526.jpg",
+    "Exit Url": "/men/watches/?getSKU=DA376AC06PTXMY",
+    "Headline": "Shop Watches >",
+    "Subline": "Shop Watches >",
+    "EventLabel": "CAT|Men|mwatches|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/mobileweb_skinnyGIF_700x200_W_MayWeShop.jpg",
+    "Exit Url": "/women/special-price/?age=30-90",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wmayweshop|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MOBILEWEB_HERO_600x600_W_MayWeShop.jpg",
+    "Exit Url": "/women/special-price/?age=30-90",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wmayweshop|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/cms/DY/620x420_W_MayweWork.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=maywework1500",
+    "Headline": "MAY WE WORK",
+    "Subline": "Look corporate chic throughout the week without breaking the bank",
+    "EventLabel": "SAL|Women|wmaywework|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/NCU1_620x420_W_MayWeChill.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&age=90-120&dir=desc&gender=women&category_id=&brand=addicts-anonymous--aldo--esprit--mango--nike--no-apologies--river-island--sesura--shapes-and-curves--something-borrowed--stylebox--sunnydaysweety--velvet--zalora--zalora-sport",
+    "Headline": "MAY WE CHILL",
+    "Subline": "Take your pick and stay on-trend during your off days",
+    "EventLabel": "SAL|Women|wmaywechill|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Watches_300x198.jpg",
+    "Exit Url": "/women/watches/analog-watches/",
+    "Headline": "Shop Watches >",
+    "Subline": "Shop Watches >",
+    "EventLabel": "BRA|Women|wwatches|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Jackets_300x198.jpg",
+    "Exit Url": "/women/clothing/jackets-vests/",
+    "Headline": "Shop Jackets >",
+    "Subline": "Shop Jackets >",
+    "EventLabel": "BRA|Women|wjackets|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/mobileweb_skinnyGIF_700x200_M_MayWeShop.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=mayweshop",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|mmayweshop|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MOBILEWEB_HERO_600x600_M_MayWeShop.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=mayweshop",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|mmayweshop|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_M_MayWeSplurge.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=maywesplurge",
+    "Headline": "May We Splurge",
+    "Subline": "Buy 2 or More, Get 20% off. Valid on top of vouchers",
+    "EventLabel": "SAL|Men|mmaywesplurgebuy2get20off|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_M_MayWeMove.jpg",
+    "Exit Url": "/men/sports/special-price/",
+    "Headline": "May We Move",
+    "Subline": "Take up to 40% off this sportswear selection and sweat it out in style",
+    "EventLabel": "SAL|Men|mmaywemove|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Tshirts_300x198_W_20170526.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?getSKU=HO422AA23GPKMY",
+    "Headline": "Shop T-shirts >",
+    "Subline": "Shop T-shirts >",
+    "EventLabel": "CAT|Men|mtshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Sneakers_300x198_W_20170526.jpg",
+    "Exit Url": "/men/shoes/sneakers/?getSKU=EC876SH87ODCPH",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "CAT|Men|msneakers|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/homepage-hero_996x500_MayWeShop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepageheromayweshop|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/NEWARRIVALS_322x300_w_mayweacc.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=mayweaccessorize",
+    "Headline": "MAY  WE ACCESSORIZE",
+    "Subline": "With bags and shoes up to 50% off , this is truly the perfect pick-me-up",
+    "EventLabel": "SAL|Women|wmayweaccessorize|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_322x300-maywesplurge.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=maywesplurge&vc=MAY18",
+    "Headline": "MAY WE SPLURGE",
+    "Subline": "<span style = \"color:#436fb0\">Use code :MAY18</span> for 18% off women's wear. Minimum spend of P2000",
+    "EventLabel": "SAL|Women|wmaywesplurge18offvc|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Homepage_Banner_322x300_W_MayWeChill.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&age=90-120&dir=desc&gender=women&category_id=&brand=addicts-anonymous--aldo--esprit--mango--nike--no-apologies--river-island--sesura--shapes-and-curves--something-borrowed--stylebox--sunnydaysweety--velvet--zalora--zalora-sport",
+    "Headline": "MAY WE CHILL",
+    "Subline": "Take your pick and stay on-trend during your off days",
+    "EventLabel": "SAL|Women|wmaywechill|ALL|NA"
+  }
+]
