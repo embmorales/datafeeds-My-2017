@@ -43,11 +43,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/MayWeChill_N1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/women/special-price/?sort=popularity&age=90-120&dir=desc&gender=women&category_id=&brand=addicts-anonymous--aldo--esprit--mango--nike--no-apologies--river-island--sesura--shapes-and-curves--something-borrowed--stylebox--sunnydaysweety--velvet--zalora--zalora-sport",
-    "Headline": "MAY WE CHILL",
-    "Subline": "Take your pick and stay on-trend during your off days",
-    "EventLabel": "SAL|Women|wmaywechill|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420-maywesplurge.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=maywesplurge&vc=MAY18",
+    "Headline": "MAY WE SPLURGE",
+    "Subline": "<span style = \"color:#436fb0\">Use code :MAY18</span> for 18% off women's wear. Minimum spend of P2000",
+    "EventLabel": "SAL|Women|wmaywesplurge18offvc|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -73,11 +73,11 @@
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420-maywesplurge.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=maywesplurge&vc=MAY18",
-    "Headline": "MAY WE SPLURGE",
-    "Subline": "<span style = \"color:#436fb0\">Use code :MAY18</span> for 18% off women's wear. Minimum spend of P2000",
-    "EventLabel": "SAL|Women|wmaywesplurge18offvc|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/MayWeChill_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&age=90-120&dir=desc&gender=women&category_id=&brand=addicts-anonymous--aldo--esprit--mango--nike--no-apologies--river-island--sesura--shapes-and-curves--something-borrowed--stylebox--sunnydaysweety--velvet--zalora--zalora-sport",
+    "Headline": "MAY WE CHILL",
+    "Subline": "Take your pick and stay on-trend during your off days",
+    "EventLabel": "SAL|Women|wmaywechill|ALL|NA"
   },
   {
     "Placement": "wcu3",
