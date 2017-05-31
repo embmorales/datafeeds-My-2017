@@ -24,20 +24,20 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/special-price/?age=30-90&vc=MAY18",
-    "Headline": "#MayWeShop Get Up to 60% off",
-    "Subline": "Discover never-before-seen deals on these season's latest and greatest",
-    "EventLabel": "SAL|Women|wmayweshop|ALL|NA"
+    "Exit Url": "/women/all-products/?vc=shop18off",
+    "Headline": "Get Up to 60% off +18% off - USE CODE: SHOP18off",
+    "Subline": "Min spend: P2,500. Duration: May 31 to June 1,12 noon. Brand exclusions apply.",
+    "EventLabel": "SAL|Women|wmayweshopvc18off|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_W_MayWeShop.jpg",
-    "Exit Url": "/women/special-price/?age=30-90",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MayWeShop_Shop18off_996x500.jpg",
+    "Exit Url": "/women/all-products/?vc=shop18off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|wmayweshop|ALL|NA"
+    "EventLabel": "SAL|Women|wmayweshopvc18off|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -234,20 +234,20 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/all-products/?cmpgn_one=mayweshop",
-    "Headline": "#MayWeShop Get Up to 60% off",
-    "Subline": "Discover never-before-seen deals on these season's latest and greatest",
-    "EventLabel": "SAL|Men|mmayweshop|ALL|NA"
+    "Exit Url": "/men/all-products/?vc=shop18off",
+    "Headline": "Get Up to 60% off +18% off - USE CODE: SHOP18off",
+    "Subline": "Min spend: P2,500. Duration: May 31 to June 1,12 noon. Brand exclusions apply.",
+    "EventLabel": "SAL|Men|mmayweshopvc18off|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_M_MayWeShop.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=mayweshop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MayWeShop_Shop18off_996x500.jpg",
+    "Exit Url": "/men/all-products/?vc=shop18off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|mmayweshop|ALL|NA"
+    "EventLabel": "SAL|Men|mmayweshopvc18off|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -283,11 +283,11 @@
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Featured_Brand_322x165_M_20170526_Pacsafe.png",
-    "Exit Url": "/men/pacsafe/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Adidas_Dsk_322x165_adidas.jpg",
+    "Exit Url": "/men/adidas/?getSKU=AD678AA48VMXPH--AD678AA46VMZPH--AD678AA45VNAPH--AD678AA42VNDPH",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|mpacsafe|ALL|NA"
+    "EventLabel": "BRA|Men|madidas|ALL|NA"
   },
   {
     "Placement": "mfb3",
@@ -383,21 +383,21 @@
     "Placement": "ws1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/mobileweb_skinnyGIF_700x200_W_MayWeShop.jpg",
-    "Exit Url": "/women/special-price/?age=30-90",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MayWeShop_Shop18off_700x200.gif",
+    "Exit Url": "/women/all-products/?vc=shop18off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|wmayweshop|ALL|NA"
+    "EventLabel": "SAL|Women|wmayweshopvc18off|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/MOBILEWEB_HERO_600x600_W_MayWeShop.jpg",
-    "Exit Url": "/women/special-price/?age=30-90",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MayWeShop_Shop18off_600x600-1.jpg",
+    "Exit Url": "/women/all-products/?vc=shop18off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|wmayweshop|ALL|NA"
+    "EventLabel": "SAL|Women|wmayweshopvc18off|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -443,21 +443,21 @@
     "Placement": "ms1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/mobileweb_skinnyGIF_700x200_M_MayWeShop.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=mayweshop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MayWeShop_Shop18off_700x200.gif",
+    "Exit Url": "/men/all-products/?vc=shop18off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|mmayweshop|ALL|NA"
+    "EventLabel": "SAL|Men|mmayweshopvc18off|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/MOBILEWEB_HERO_600x600_M_MayWeShop.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=mayweshop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MayWeShop_Shop18off_600x600-1.jpg",
+    "Exit Url": "/men/all-products/?vc=shop18off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|mmayweshop|ALL|NA"
+    "EventLabel": "SAL|Men|mmayweshopvc18off|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -503,7 +503,7 @@
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/homepage-hero_996x500_MayWeShop.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MayWeShop_VC_996x500.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
